@@ -53,7 +53,7 @@ const Sidebar: React.FC<SidebarProps> = ({onSubscribe})=>{
             alt="叶春华"
             className={styles.avatar}
           />
-          <p>叶春华，零栈开发工程师，热爱抽烟喝酒烫头。住在北区7栋，目前专注于洛克王国与火影忍者。</p>
+          <p>范小华，零栈开发工程师，热爱抽烟喝酒烫头。住在北区7栋，目前专注于洛克王国与火影忍者。</p>
         </div>
       </section>
 
