@@ -12,9 +12,9 @@ const AboutPage: React.FC = () => {
       <div className={styles.page}>
         <h1 className={styles.pageTitle}>关于我</h1>
         <div className={styles.aboutContent}>
-          <p>👋 你好，我是李建威，不是一名热爱技术的全栈开发工程师。</p>
-          <p>拥有0年一线大厂经验，目前专注于前端工程化、性能优化和React生态。</p>
-          <p>这个博客记录我的学习心得、实战技巧，希望能帮助到同样热爱前端的你。</p>
+          <p>👋 你好，我是沐白，不是一名热爱技术的全栈开发工程师。</p>
+          <p>拥有10年火影忍者经验，目前专注于火影忍者、洛克王国和抖音快手。</p>
+          <p>这个博客记录我的游玩心得、实战技巧，希望能帮助到同样热爱游戏的你。</p>
           <p>📧 联系我：1234567890@qq.com</p>
         </div>
       </div>

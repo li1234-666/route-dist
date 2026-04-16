@@ -19,7 +19,7 @@ import NotFoundPage from './pages/NotFoundPage';
 const App: React.FC = () => {
   
   // 在顶层组件定义一个状态，管理博客标题
-  const [blogTitle] = useState<string>("我的技术博客 test!");
+  const [blogTitle] = useState<string>("我的技术博客!");
   
 
   // 定义接收邮箱的处理函数

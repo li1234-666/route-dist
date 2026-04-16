@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import styles from './Sidebar.module.css';
-import ljw from '../assets/mjq.jpg';
+import ych from '../assets/mjq.jpg';
 import jd from '../assets/jd.jpeg';
 import tb  from '../assets/tb.png';
 
@@ -49,11 +49,11 @@ const Sidebar: React.FC<SidebarProps> = ({onSubscribe})=>{
         <h3>关于作者</h3>
         <div className={styles.authorInfo}>
           <img
-            src={ljw}
-            alt="李建威"
+            src={ych}
+            alt="叶春华"
             className={styles.avatar}
           />
-          <p>李建威，全栈开发工程师，热爱分享技术。拥有0年一线大厂经验，目前专注于前端工程化与性能优化。</p>
+          <p>叶春华，零栈开发工程师，热爱抽烟喝酒烫头。住在北区7栋，目前专注于洛克王国与火影忍者。</p>
         </div>
       </section>
 
